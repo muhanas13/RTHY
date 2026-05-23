@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated, solid protection shield centered -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,18 L26,28 C26,52 38,72 54,82 C70,72 82,52 82,28 Z" />
+
+    <!-- Sleek inner dark metallic core lock container -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M54,23 L31,31.2 C31,51.8 41.5,69.5 54,77.5 C66.5,69.5 77,51.8 77,31.2 Z" />
+
+    <!-- High-visibility golden padlock lock head -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,34 C49,34 45,38 45,43 L45,48 H41 V64 H67 V48 H63 V43 C63,38 59,34 54,34 Z M54,39 C56.2,39 58,40.8 58,43 L58,48 H50 L50,43 C50,40.8 51.8,39 54,39 Z" />
+
+    <!-- Tiny white keyhole indicator inside lock core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,53 C52.3,53 51,54.3 51,56 C51,57.1 51.6,58.1 52.5,58.6 L52.5,61 H55.5 L55.5,58.6 C56.4,58.1 57,57.1 57,56 C57,54.3 55.7,53 54,53 Z" />
+</vector>

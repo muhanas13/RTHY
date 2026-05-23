@@ -1,0 +1,6 @@
+{
+  "name": "Exam Browser Secure",
+  "description": "Secure exam browser with active fullscreen kiosk pinning, anti-split screen block, and real-time floating window/overlay detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
